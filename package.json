@@ -1,0 +1,24 @@
+{
+  "name": "angular-track-scroll",
+  "version": "0.0.2-beta.2",
+  "description": "Track Scroll for Angular",
+  "author": "Jose Andres <jmandreslopez@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angular2",
+    "track",
+    "scroll",
+    "trackscroll"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmandreslopez/ng2-track-scroll.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmandreslopez/bg2-track-scroll/issues"
+  },
+  "homepage": "https://github.com/jmandreslopez/bg2-track-scroll#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
